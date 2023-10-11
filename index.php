@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Webpagina. Dit is in HTML</title>
+    <title>PHP Webpagina. Dit is in HTML. (nu met punt)</title>
 </head>
 <body>
 
