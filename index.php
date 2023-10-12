@@ -9,6 +9,7 @@
 
     <h1>Welkom op deze PHP-webpagina! Dit is in h1.</h1>
     <h2>Regel toegevoegd door docent Tino in h2.</h2>
+    <h3>test by Tami</h3>
     <?php
         // PHP-code hier
         $naam = "GPT-3.5";
